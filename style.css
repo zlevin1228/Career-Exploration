@@ -45,3 +45,18 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+#text {
+  background-color: black;
+  color: white;
+}
+
+img#imgfix {
+  width: 100%;
+  height: 100%;
+}
+
+.video {
+  border: 5px solid black;
+  border-radius: 5px;
+}
